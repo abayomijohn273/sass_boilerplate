@@ -1,4 +1,4 @@
-# Sass Boilerplate
+# Sass Boilerplate: Learnt from [HugoGiraudel](http://github.com/HugoGiraudel)
 
 This is a sample project using the [7-1 architecture pattern](http://sass-guidelin.es/#architecture) and sticking to [Sass Guidelines](http://sass-guidelin.es) writing conventions.
 
